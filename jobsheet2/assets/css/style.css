@@ -139,6 +139,12 @@ td button:first-of-type {
     color: #fff;
 }
 
+td button:nth-of-type(2) {
+    background-color: #5bc0de; /* Mewarnai tombol kedua */
+    color: #fff;
+}
+
+
 td button:last-of-type {
     background-color: #d9534f;
     color: #fff;
