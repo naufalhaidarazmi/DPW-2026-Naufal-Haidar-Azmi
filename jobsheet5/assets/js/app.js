@@ -8,3 +8,6 @@ function initNavToggle() {
         nav.classList.toggle("nav-open");
     });
 }
+
+const toggleBtn = document.getElementById("nav-toggle-btn");
+const nav = document.querySelector("header nav");
