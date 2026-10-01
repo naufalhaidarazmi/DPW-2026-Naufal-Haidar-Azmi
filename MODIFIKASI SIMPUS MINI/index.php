@@ -83,7 +83,7 @@ try {
 <!-- Section Preview Buku Terbaru -->
 <div class="card card-table">
     <div class="card-header">
-        <h2>📖 Buku Terbaru Dambahkan</h2>
+        <h2>📖 Buku Terbaru Damba   hkan</h2>
         <a href="buku/list.php" class="link-more">Lihat Semua Buku &rarr;</a>
     </div>
     <div class="table-responsive">
